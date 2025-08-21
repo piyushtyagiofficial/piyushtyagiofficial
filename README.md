@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushtyagiofficial" alt="piyushtyagiofficial" /></a> </p>
 
-- 🔭 I’m currently working on **Socials - A Social Media App**
+- I’m currently working on **Socials - A Social Media App**
 
-- 🌱 I’m currently learning **Next.js, React Native**
+- I’m currently learning **Next.js, React Native**
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js, AIML**
+- Ask me about **React, Node.js, MongoDB, Express.js, AIML**
 
-- 📫 Reach me at - **tyagipiyush812@gmail.com**
+- Reach me at - **tyagipiyush812@gmail.com**
+
+- [Check out my portfolio](https://piyushkumartyagi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
