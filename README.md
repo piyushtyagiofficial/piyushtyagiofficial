@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Tyagi</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">I build full-stack web applications using tools like React, Node.js, Express, FastAPI, MongoDB, and PostgreSQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushtyagiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="piyushtyagiofficial" /> </p>
 
