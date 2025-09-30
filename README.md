@@ -7,13 +7,15 @@
 
 - I’m currently working on **Socials - A Social Media App**
 
-- I’m currently learning **Next.js, React Native**
+- I’m currently learning **AI/ML**
 
 - Ask me about **React, Node.js, MongoDB, Express.js, AIML**
 
 - Reach me at - **tyagipiyush812@gmail.com**
 
-- Check out my portfolio at - https://piyushkumartyagi.vercel.app/
+- Check out my Portfolio at - https://piyushkumartyagi.vercel.app/
+
+- Check out my Website at - https://pktyagi.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
