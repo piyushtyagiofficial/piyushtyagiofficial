@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushtyagiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="piyushtyagiofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushtyagiofficial&theme=onedark" alt="piyushtyagiofficial" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushtyagiofficial" alt="piyushtyagiofficial" /></a> </p>
 
 - I’m currently working as a **Full Stack Developer Intern at Aigeeks**
 
